@@ -4,7 +4,7 @@ Casks for apps by CocoaBeans.
 
 ## Mimamori
 
-[Mimamori](https://github.com/CocoaBeans/mimamori) keeps watch over git worktrees while coding agents work in them.
+[Mimamori](https://github.com/CocoaBeans/mimamori) keeps watch over git worktrees while coding agents work.
 
 ```bash
 brew install --cask cocoabeans/tap/mimamori
