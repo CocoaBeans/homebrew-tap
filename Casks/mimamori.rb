@@ -1,6 +1,6 @@
 cask "mimamori" do
-  version "1.4.0"
-  sha256 "7566102324db64125732974f156fcbd4a48eb10a9fe76d673a92eaf1b49f1dd3"
+  version "1.5.0"
+  sha256 "b6faf6a940d447776ed57f1d8d97510fbb41bbea5dab0351a1a8839e6fc3ca30"
 
   url "https://github.com/CocoaBeans/mimamori/releases/download/v#{version}/Mimamori-#{version}.dmg"
   name "Mimamori"
